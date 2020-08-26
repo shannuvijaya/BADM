@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T07:53:37.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="IYBZSUYpTssNynuSABx4" version="13.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-26T07:55:08.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="CSvTgN8zSYJTZz7Uipxk" version="13.6.5" type="github" pages="2">
   <diagram id="ypnYGRSSU72VjGxtLLSO" name="Approch 1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -86,20 +86,30 @@
         <mxCell id="yC1Pr-5vst_EwXhGVKNV-3" value="Thailand On Prim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vjrLTXw67dcSMwFPXf7h-1">
           <mxGeometry x="460" y="50" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yC1Pr-5vst_EwXhGVKNV-4" value="TO" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="vjrLTXw67dcSMwFPXf7h-1">
-          <mxGeometry x="470" y="180" width="60" height="80" as="geometry" />
+        <mxCell id="yC1Pr-5vst_EwXhGVKNV-4" value="Oracle DB" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="vjrLTXw67dcSMwFPXf7h-1">
+          <mxGeometry x="640" y="120" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yC1Pr-5vst_EwXhGVKNV-5" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=-0.022;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vjrLTXw67dcSMwFPXf7h-1" target="yC1Pr-5vst_EwXhGVKNV-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="130" as="sourcePoint" />
             <mxPoint x="190" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="151" />
+              <mxPoint x="430" y="150" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="H0P696xARa3s6IDtL7Q_-0" value="Development Web Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vjrLTXw67dcSMwFPXf7h-1">
           <mxGeometry x="160" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OWYoPRrjqjmoVWhWE2oB-0" value="Prab VS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vjrLTXw67dcSMwFPXf7h-1">
+        <mxCell id="OWYoPRrjqjmoVWhWE2oB-0" value="VDI with VS Lice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vjrLTXw67dcSMwFPXf7h-1">
           <mxGeometry x="170" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYoPRrjqjmoVWhWE2oB-1" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="vjrLTXw67dcSMwFPXf7h-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="250" as="sourcePoint" />
+            <mxPoint x="610" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
