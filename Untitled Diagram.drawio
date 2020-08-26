@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T08:00:58.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="Z_Qbv8m5mL_6dYB8yefQ" version="13.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-26T08:01:48.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="WS5p-xre_C_-eZRpatkp" version="13.6.5" type="github" pages="2">
   <diagram id="ypnYGRSSU72VjGxtLLSO" name="Approch 1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -99,18 +99,18 @@
           <mxGeometry x="460" y="50" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yC1Pr-5vst_EwXhGVKNV-4" value="Oracle DB" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="vjrLTXw67dcSMwFPXf7h-1">
-          <mxGeometry x="670" y="180" width="60" height="80" as="geometry" />
+          <mxGeometry x="650" y="170" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H0P696xARa3s6IDtL7Q_-0" value="Development Web Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vjrLTXw67dcSMwFPXf7h-1">
           <mxGeometry x="160" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OWYoPRrjqjmoVWhWE2oB-0" value="VDI with VS Lice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vjrLTXw67dcSMwFPXf7h-1">
-          <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OWYoPRrjqjmoVWhWE2oB-1" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="vjrLTXw67dcSMwFPXf7h-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="340" as="sourcePoint" />
-            <mxPoint x="610" y="240" as="targetPoint" />
+            <mxPoint x="320" y="300" as="sourcePoint" />
+            <mxPoint x="620" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OWYoPRrjqjmoVWhWE2oB-2" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="vjrLTXw67dcSMwFPXf7h-1">
